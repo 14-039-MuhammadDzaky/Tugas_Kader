@@ -1,0 +1,59 @@
+body{
+    color: black;
+    margin: 20px 100px 20px 100px;
+    background-color: wheat;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.page{
+    margin: 30px 200px 30px 150px;
+    padding: 1%;
+    box-shadow: 5px 5px 10px 5px;
+    margin: auto;
+    display: flex;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.page1{
+    width: 50%;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #7AB2D3;
+    
+}
+.teks{
+    padding: 3%;
+    text-align: justify;
+}
+
+.about img{
+    margin: 10px 50px 10px 50px;
+    box-shadow: 2px 2px 5px 5px;
+    border-radius: 50%;
+}
+
+.page2{
+    width: 100%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.Biodata{
+    padding: 10px;
+}
+
+.education{
+    padding: 10px;
+}
+
+.pengalaman{
+    padding: 10px;
+
+}
+
+.Hobby{
+    padding: 10px;
+}
